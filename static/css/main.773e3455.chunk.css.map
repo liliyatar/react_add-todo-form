@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,iBAAkB,CAClB,SAAU,CACV,aACF,CAEA,OACE,SACF","file":"main.773e3455.chunk.css","sourcesContent":[".addTodo {\n  text-align: center;\n  width: 50%;\n  margin: 0 auto;\n}\n\n.error {\n  color: red;\n}\n"]}
